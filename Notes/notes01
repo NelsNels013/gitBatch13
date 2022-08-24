@@ -1,0 +1,28 @@
+review
+what is git
+it is a version control tool
+
+2.what is a local repository?
+a storage that is on our computer
+
+what is a remote repository
+github
+
+Architecture of git
+
+3-stage architecture working directory, staging area,repo
+
+working directory--------->>>>>>
+
+
+gitproject1---> pom,src,target, .idea
+
+where should you create your local git repository?
+ideally you should create your repo inside your working directory i.e in this case gitProject1
+
+Notes
+one repo for one single project
+no subRepos are advised
+
+-------------------------------------------------------------------------------------------------------
+
